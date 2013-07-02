@@ -22,7 +22,7 @@ A 95% confidence interval for the true value *X* of the probability that a trial
 
     0.053166655 ± 2 √(0.053166655×(1-0.053166655)/423000000),
 
-which works out to the range [0.0531884, .0531448]. So we can with confidence amend the estimate to the solution of the five coins problem: **X ≈ 0.0531**. Anyone will to run this thing for a few days can happily grab another digit.
+which works out to the range [0.0531884, 0.0531448]. So we can with confidence amend the estimate to the solution of the five coins problem: **X ≈ 0.0531**. Anyone will to run this thing for a few days can happily grab another digit.
 
 Files
 -----
