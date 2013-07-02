@@ -8,30 +8,33 @@ Algorithm brief
 
 The algorithm works purely geometrically. The problem is small enough to work in a case-by-case basis: in fact, there are only five different situations important to us, which are easiest to convey by image.
 
-Note that there is *always* space for at least three coins, and that if at any time another coin can be placed in the disc, it is necessarily true that the coin can be placed tangent to the edge of the disc (with probability one).
+Note that there is *always* space for at least three coins, and that if at any time another coin can be placed in the disc, it is true (with probability one) that the coin can be placed somewhere tangent to the edge of the disc.
 
-<table>
+<style>
+#coins_table tr td img {width: auto !important;}
+</style>
+<table id='coins_table'>
 <tr>
     <td valign='top'>
-        <img src='/img/c3.png' width='245px' /><br/>
+        <img src='/img/c3.png' height='220px' /><br/>
         <strong>(*3)</strong> The first three coins leave no room for a fourth.
     </td>
     <td valign='top'>
-        <img src='/img/c4a.png' width='195px' /><br/>
+        <img src='/img/c4a.png' height='220px' /><br/>
         <strong>(*4a)</strong> After laying the first three coins, there is a single region left for more coins. The region is only big enough to accommodate one coin.
     </td>
     <td valign='top'>
-        <img src='/img/c4b.png' width='195px' /><br/>
+        <img src='/img/c4b.png' height='220px' /><br/>
         <strong>(*4b)</strong> After laying the first three coins, there is a single region left for more coins. The region is big enough to accommodate two coins, but placing the fourth leaves no room for a fifth.
     </td>
 <tr>
 </tr>
     <td valign='top'>
-        <img src='/img/c5a.png' width='255px' /><br/>
+        <img src='/img/c5a.png' height='220px' /><br/>
         <strong>(*5a)</strong> After laying the first three coins, there are two disjoint regions left for more coins. Each region gets a coin, making five.
     </td>
     <td valign='top'>
-        <img src='/img/c5b.png' width='195px' /><br/>
+        <img src='/img/c5b.png' height='220px' /><br/>
         <strong>(*5b)</strong> After laying the first three coins, there is a single region left for more coins. The region is big enough to accommodate two coins, and placing the fourth <em>does</em> leave room for a fifth.
     </td>
     <td></td>
