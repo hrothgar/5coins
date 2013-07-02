@@ -10,31 +10,28 @@ The algorithm works purely geometrically. The problem is small enough to work in
 
 Note that there is *always* space for at least three coins, and that if at any time another coin can be placed in the disc, it is true (with probability one) that the coin can be placed somewhere tangent to the edge of the disc.
 
-<<!--+-->st<!--+-->yle<!--+-->>
-#coins_table tr td img {width: auto !important;}
-<<!--+-->/st<!--+-->yle<!--+-->>
-<table id='coins_table'>
+<table>
 <tr>
-    <td valign='top'>
-        <img src='/img/c3.png' height='220px' /><br/>
+    <td valign='top' width='30%'>
+        <img src='/img/c3.png' /><br/>
         <strong>(*3)</strong> The first three coins leave no room for a fourth.
     </td>
-    <td valign='top'>
-        <img src='/img/c4a.png' height='220px' /><br/>
+    <td valign='top' width='30%'>
+        <img src='/img/c4a.png' /><br/>
         <strong>(*4a)</strong> After laying the first three coins, there is a single region left for more coins. The region is only big enough to accommodate one coin.
     </td>
-    <td valign='top'>
-        <img src='/img/c4b.png' height='220px' /><br/>
+    <td valign='top' width='30%'>
+        <img src='/img/c4b.png' /><br/>
         <strong>(*4b)</strong> After laying the first three coins, there is a single region left for more coins. The region is big enough to accommodate two coins, but placing the fourth leaves no room for a fifth.
     </td>
 <tr>
 </tr>
-    <td valign='top'>
-        <img src='/img/c5a.png' height='220px' /><br/>
+    <td valign='top' width='30%'>
+        <img src='/img/c5a.png' /><br/>
         <strong>(*5a)</strong> After laying the first three coins, there are two disjoint regions left for more coins. Each region gets a coin, making five.
     </td>
-    <td valign='top'>
-        <img src='/img/c5b.png' height='220px' /><br/>
+    <td valign='top' width='30%'>
+        <img src='/img/c5b.png' /><br/>
         <strong>(*5b)</strong> After laying the first three coins, there is a single region left for more coins. The region is big enough to accommodate two coins, and placing the fourth <em>does</em> leave room for a fifth.
     </td>
     <td></td>
