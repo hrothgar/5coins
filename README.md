@@ -14,4 +14,4 @@ Files
     The same as the main routine, but it runs a little slower since it collects information with a slightly finer granularity. Instead of simply binning the 3s, 4s, and 5s, it builds a vector `cointrials` in which each element is in {3,4,5} and corresponds to a single trial. Also prints verbose output each 100,000 trials.
 3.  **coins_plot.m**
 
-    The funnest one of them all, this script pauses between trials to display graphically the result of the last throw. Hit enter at the terminal to reiterate.
+    To illustrate the problem in *stunning 2-D*, this script pauses between trials to display graphically the result of the last throw. Hit enter at the terminal to reiterate.
