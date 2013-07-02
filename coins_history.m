@@ -23,7 +23,7 @@
 
 tic;                                    % start the clock
 rng(1);                                 % set the random seed
-outputinterval = 20e3;                  % verbose output interval
+outputinterval = 1e5;                   % verbose output interval
 allocationstep = 2e5;                   % memory reallocation step
 
 R = 3;                                  % outer disc radius
