@@ -28,7 +28,7 @@ Note that there is *always* space for at least three coins, and that if at any t
 </tr>
     <td valign='top' width='33%'>
         <img src='/img/c5a.png' /><br/>
-        <strong>(*5a)</strong> After laying the first three coins, there are two disjoint regions left for more coins. Each region gets a coin, making five.
+        <strong>(*5a)</strong> After laying the first three coins, there are two unconnected regions left for more coins. Each region gets a coin, making five.
     </td>
     <td valign='top' width='33%'>
         <img src='/img/c5b.png' /><br/>
