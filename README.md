@@ -13,25 +13,25 @@ Note that there is *always* space for at least three coins, and that if at any t
 <table>
 <tr>
     <td valign='top'>
-        <img src='/img/c3.png' width='176px' /><br/>
+        <img src='/img/c3.png' width='200' /><br/>
         <strong>(*3)</strong> The first three coins leave no room for a fourth.
     </td>
     <td valign='top'>
-        <img src='/img/c4a.png' width='184px' /><br/>
+        <img src='/img/c4a.png' width='219px' /><br/>
         <strong>(*4a)</strong> After laying the first three coins, there is a single region left for more coins. The region is only big enough to accommodate one coin.
     </td>
     <td valign='top'>
-        <img src='/img/c4b.png' width='184px' /><br/>
+        <img src='/img/c4b.png' width='217px' /><br/>
         <strong>(*4b)</strong> After laying the first three coins, there is a single region left for more coins. The region is big enough to accommodate two coins, but placing the fourth leaves no room for a fifth.
     </td>
 <tr>
 </tr>
     <td valign='top'>
-        <img src='/img/c5a.png' width='212px' /><br/>
+        <img src='/img/c5a.png' width='231px' /><br/>
         <strong>(*5a)</strong> After laying the first three coins, there are two disjoint regions left for more coins. Each region gets a coin, making five.
     </td>
     <td valign='top'>
-        <img src='/img/c5b.png' width='178px' /><br/>
+        <img src='/img/c5b.png' width='217pxpx' /><br/>
         <strong>(*5b)</strong> After laying the first three coins, there is a single region left for more coins. The region is big enough to accommodate two coins, and placing the fourth <em>does</em> leave room for a fifth.
     </td>
     <td></td>
