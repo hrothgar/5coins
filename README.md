@@ -8,7 +8,7 @@ Algorithm brief
 
 The algorithm works purely geometrically. The problem is small enough to work in a case-by-case basis: in fact, there are only five different situations important to us, which are easiest to convey by image.
 
-Note that there is *always* space for at least three coins, and that if at any time another coin can be placed in the disc, it is true (with probability one) that the coin can be placed somewhere tangent to the edge of the disc.
+Note that there is *always* space for at least three coins, and that if at any time another coin can be placed in the disc, it is true (with probability one) that the coin can be placed somewhere tangent to the edge of the disc. Details are best understood by taking a look at the code.
 
 <table>
 <tr>
