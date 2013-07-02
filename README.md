@@ -8,11 +8,13 @@ Algorithm brief
 
 The algorithm works purely geometrically. The problem is small enough to work in a case-by-case basis: in fact, there are only five different situations important to us, which are easiest to convey by image:
 
-<img src='/img/c3.png' width='150px' />
-<img src='/img/c4a.png' width='150px' />
-<img src='/img/c4b.png' width='150px' />
-<img src='/img/c5a.png' width='150px' />
-<img src='/img/c5b.png' width='150px' />
+<div style='text-align:center'>
+<img src='/img/c3.png' width='180px' style='padding:3px;border:1px solid #ddd;margin:6px' />
+<img src='/img/c4a.png' width='180px' style='padding:3px;border:1px solid #ddd;margin:6px' />
+<img src='/img/c4b.png' width='180px' style='padding:3px;border:1px solid #ddd;margin:6px' />
+<img src='/img/c5a.png' width='180px' style='padding:3px;border:1px solid #ddd;margin:6px' />
+<img src='/img/c5b.png' width='180px' style='padding:3px;border:1px solid #ddd;margin:6px' />
+</div>
 
 Results
 -------
