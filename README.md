@@ -3,6 +3,17 @@
 
 An improved estimate for the "Five Coins" problem of L.N. Trefethen described at [http://people.maths.ox.ac.uk/trefethen/invitation.pdf]. Any comments, corrections, and suggestions are gladly welcomed. Email me at hrothgarrrr@gmail.com.
 
+Algorithm brief
+---------------
+
+The algorithm works purely geometrically. The problem is small enough to work in a case-by-case basis: in fact, there are only five different situations important to us, which are easiest to convey by image:
+
+![3 coins](/img/c3.png)
+![4 coins (a)](/img/c4a.png)
+![4 coins (b)](/img/c4b.png)
+![5 coins (a)](/img/c5a.png)
+![5 coins (b)](/img/c5b.png)
+
 Results
 -------
 
