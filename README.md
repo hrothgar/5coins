@@ -1,7 +1,7 @@
 5coins
 ======
 
-An improved estimate for the "5 Coins" problem of L.N. Trefethen described at [http://people.maths.ox.ac.uk/trefethen/invitation.pdf]. Any comments, corrections, and suggestions are gladly welcomed. Email me at hrothgarrrr@gmail.com.
+An improved estimate for the "Five Coins" problem of L.N. Trefethen described at [http://people.maths.ox.ac.uk/trefethen/invitation.pdf]. Any comments, corrections, and suggestions are gladly welcomed. Email me at hrothgarrrr@gmail.com.
 
 Results
 -------
