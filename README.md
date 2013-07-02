@@ -10,9 +10,9 @@ The algorithm works purely geometrically. The problem is small enough to work in
 
 Note that there is *always* space for at least three coins, and that if at any time another coin can be placed in the disc, it is true (with probability one) that the coin can be placed somewhere tangent to the edge of the disc.
 
-<style>
+<<!--+-->st<!--+-->yle<!--+-->>
 #coins_table tr td img {width: auto !important;}
-</style>
+<<!--+-->/st<!--+-->yle<!--+-->>
 <table id='coins_table'>
 <tr>
     <td valign='top'>
