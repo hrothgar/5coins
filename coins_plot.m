@@ -160,8 +160,8 @@ while 1,                                    %- until forever...
     plot([pts1, pts2], 'o', 'color', [.4 .4 .85], 'markersize', 8);
     plot(possiblecc, 'o', 'color', [0 .5 0], 'markersize', 8);
     plot(cc, 'x', 'color', .2*[1 1 1], 'markersize', 8)
-    %title(['Trial #' num2str(trialnum) '. Total coins = ' num2str(count)]);
-    title(['Total coins = ' num2str(count)]);
+    title(['Trial #' num2str(trialnum) '. Total coins = ' num2str(count) ' '], ...
+        'fontsize', 16);
     axis equal;
     axis(4*[-1 1 -1 1]);
     axis off;
