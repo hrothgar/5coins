@@ -64,7 +64,7 @@ Files
 
 1.  **coins.m**
 
-    The main routine. Keeps track of progress in the 3-vector `coincoints`. By default it prints out running results every 100,000 trials (which is every 30–45 seconds on my Mac).
+    The main routine. Keeps track of progress in the 3-vector `coincounts`. By default it prints out running results every 100,000 trials (which is every 30–45 seconds on my Mac).
 2.  **coins_history.m**
 
     The same as the main routine, but it runs a little slower since it collects information with a slightly finer granularity. Instead of simply binning the 3s, 4s, and 5s, it builds a vector `cointrials` in which each element is in {3,4,5} and corresponds to a single trial. Also prints verbose output each 100,000 trials.
